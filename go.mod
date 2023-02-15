@@ -48,7 +48,7 @@ require (
 	github.com/ipfs/go-ipfs-addr v0.0.1
 	github.com/ipfs/go-log/v2 v2.1.1
 	github.com/joonix/log v0.0.0-20200409080653-9c1d2ceb5f1d
-	github.com/json-iterator/go v1.1.10
+	github.com/json-iterator/go v1.1.11
 	github.com/k0kubun/go-ansi v0.0.0-20180517002512-3bf9e2903213
 	github.com/karalabe/usb v0.0.0-20191104083709-911d15fe12a9 // indirect
 	github.com/kevinms/leakybucket-go v0.0.0-20200115003610-082473db97ca
@@ -81,9 +81,8 @@ require (
 	github.com/peterh/liner v1.2.0 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/prestonvanloon/go-recaptcha v0.0.0-20190217191114-0834cef6e8bd
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/procfs v0.3.0 // indirect
 	github.com/prometheus/prom2json v1.3.0
 	github.com/prometheus/tsdb v0.10.0 // indirect
 	github.com/prysmaticlabs/eth2-types v0.0.0-20210219172114-1da477c09a06
@@ -110,13 +109,13 @@ require (
 	go.uber.org/zap v1.16.0 // indirect
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	golang.org/x/exp v0.0.0-20200513190911-00229845015e
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	golang.org/x/tools v0.0.0-20210106214847-113979e3529a
 	google.golang.org/api v0.34.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20201026171402-d4b8fe4fd877
 	google.golang.org/grpc v1.36.0
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.26.0-rc.1
 	gopkg.in/confluentinc/confluent-kafka-go.v1 v1.4.2
 	gopkg.in/d4l3k/messagediff.v1 v1.2.1
 	gopkg.in/errgo.v2 v2.1.0
