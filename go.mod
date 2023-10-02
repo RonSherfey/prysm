@@ -9,7 +9,6 @@ require (
 	github.com/aristanetworks/goarista v0.0.0-20200521140103-6c3304613b30
 	github.com/bazelbuild/buildtools v0.0.0-20200528175155-f4e8394f069d
 	github.com/bazelbuild/rules_go v0.23.2
-	github.com/btcsuite/btcd v0.21.0-beta // indirect
 	github.com/cespare/cp v1.1.1 // indirect
 	github.com/confluentinc/confluent-kafka-go v1.4.2 // indirect
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf // indirect
@@ -35,7 +34,7 @@ require (
 	github.com/golang/gddo v0.0.0-20200528160355-8d077c1d8f4c
 	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.4.3
-	github.com/golang/snappy v0.0.3
+	github.com/golang/snappy v0.0.4
 	github.com/google/gofuzz v1.2.0
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/google/uuid v1.2.0
@@ -96,6 +95,7 @@ require (
 	github.com/status-im/keycard-go v0.0.0-20200402102358-957c09536969 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/supranational/blst v0.3.4
+	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7 // indirect
 	github.com/trailofbits/go-mutexasserts v0.0.0-20200708152505-19999e7d3cef
 	github.com/tyler-smith/go-bip39 v1.1.0
 	github.com/urfave/cli/v2 v2.3.0
