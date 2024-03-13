@@ -34,7 +34,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/gddo v0.0.0-20200528160355-8d077c1d8f4c
 	github.com/golang/mock v1.4.4
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.0
 	github.com/golang/snappy v0.0.3
 	github.com/google/gofuzz v1.2.0
 	github.com/google/gopacket v1.1.19 // indirect
@@ -116,7 +116,7 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20201026171402-d4b8fe4fd877
 	google.golang.org/grpc v1.36.0
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/confluentinc/confluent-kafka-go.v1 v1.4.2
 	gopkg.in/d4l3k/messagediff.v1 v1.2.1
 	gopkg.in/errgo.v2 v2.1.0
